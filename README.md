@@ -1,4 +1,4 @@
-git clone https://github.com/codingacharya/satellite-image-analysis.git
+git clone 
 
 cd satellite-image-analysis
 
